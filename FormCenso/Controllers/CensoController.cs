@@ -1,7 +1,6 @@
 ﻿using FormCenso.DataAccess.Repositories;
 using Microsoft.AspNetCore.Mvc;
 
-
 namespace FormCenso.Controllers
 {
     public class CensoController : Controller
@@ -12,14 +11,12 @@ namespace FormCenso.Controllers
         {
             _censoRepository = censoRepository;
         }
-
       
         public IActionResult Index()
         {
             return View();
         }
 
- 
         public IActionResult Buscar(string identidad)
         {
             var result = _censoRepository.Search(identidad);
