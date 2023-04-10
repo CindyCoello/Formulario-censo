@@ -1,0 +1,59 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "FormcensoContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Entities",
+   "ProjectRootNamespace": "FormCenso.DataAccess",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[tbCenso]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbCentrosVotacion]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbColonias]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbDepartamentos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbMunicipios]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UDP_tbCenso_Voto]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[UDP_tbCensoList_Buscar]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": "PC1\\SQLEXPRESS.FormCenso",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseNoConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSpatial": false
+}

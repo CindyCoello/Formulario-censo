@@ -1,0 +1,168 @@
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Formulario.exe
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Formulario.deps.json
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Formulario.runtimeconfig.json
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Formulario.runtimeconfig.dev.json
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Formulario.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Formulario.pdb
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Formulario.Views.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Formulario.Views.pdb
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Formulario.DataAccess.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\bin\Debug\netcoreapp3.1\Formulario.DataAccess.pdb
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.csprojAssemblyReference.cache
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.AssemblyInfoInputs.cache
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.AssemblyInfo.cs
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.RazorAssemblyInfo.cache
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.RazorAssemblyInfo.cs
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\obj\Debug\netcoreapp3.1\staticwebassets\Formulario.StaticWebAssets.Manifest.cache
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\obj\Debug\netcoreapp3.1\staticwebassets\Formulario.StaticWebAssets.xml
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\obj\Debug\netcoreapp3.1\scopedcss\bundle\Formulario.styles.css
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.TagHelpers.input.cache
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.TagHelpers.output.cache
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.RazorCoreGenerate.cache
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\obj\Debug\netcoreapp3.1\Razor\Views\Censo\Index.cshtml.g.cs
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.RazorTargetAssemblyInfo.cache
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.RazorTargetAssemblyInfo.cs
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.Views.pdb
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.csproj.CopyComplete
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.dll
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.pdb
+C:\Users\ambar\Desktop\AcademiaDeProgramacion\Proyectos Visual Studio\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.genruntimeconfig.cache
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Formulario.exe
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Formulario.deps.json
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Formulario.runtimeconfig.json
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Formulario.runtimeconfig.dev.json
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Formulario.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Formulario.pdb
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Formulario.Views.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Formulario.Views.pdb
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Formulario.DataAccess.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\bin\Debug\netcoreapp3.1\Formulario.DataAccess.pdb
+C:\Users\informatica\Desktop\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.csprojAssemblyReference.cache
+C:\Users\informatica\Desktop\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.AssemblyInfoInputs.cache
+C:\Users\informatica\Desktop\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.AssemblyInfo.cs
+C:\Users\informatica\Desktop\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\informatica\Desktop\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\informatica\Desktop\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\informatica\Desktop\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.RazorAssemblyInfo.cache
+C:\Users\informatica\Desktop\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.RazorAssemblyInfo.cs
+C:\Users\informatica\Desktop\Formulario\Formulario\obj\Debug\netcoreapp3.1\staticwebassets\Formulario.StaticWebAssets.Manifest.cache
+C:\Users\informatica\Desktop\Formulario\Formulario\obj\Debug\netcoreapp3.1\staticwebassets\Formulario.StaticWebAssets.xml
+C:\Users\informatica\Desktop\Formulario\Formulario\obj\Debug\netcoreapp3.1\scopedcss\bundle\Formulario.styles.css
+C:\Users\informatica\Desktop\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.TagHelpers.input.cache
+C:\Users\informatica\Desktop\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.TagHelpers.output.cache
+C:\Users\informatica\Desktop\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.RazorCoreGenerate.cache
+C:\Users\informatica\Desktop\Formulario\Formulario\obj\Debug\netcoreapp3.1\Razor\Views\Censo\Index.cshtml.g.cs
+C:\Users\informatica\Desktop\Formulario\Formulario\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\informatica\Desktop\Formulario\Formulario\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\informatica\Desktop\Formulario\Formulario\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\informatica\Desktop\Formulario\Formulario\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\informatica\Desktop\Formulario\Formulario\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\informatica\Desktop\Formulario\Formulario\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\informatica\Desktop\Formulario\Formulario\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\informatica\Desktop\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.RazorTargetAssemblyInfo.cache
+C:\Users\informatica\Desktop\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.RazorTargetAssemblyInfo.cs
+C:\Users\informatica\Desktop\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.Views.pdb
+C:\Users\informatica\Desktop\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.csproj.CopyComplete
+C:\Users\informatica\Desktop\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.dll
+C:\Users\informatica\Desktop\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.pdb
+C:\Users\informatica\Desktop\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.genruntimeconfig.cache
